@@ -1,6 +1,8 @@
 # Digital-Concept-Tutorial
 IT 2600 Final 
 
+[Navigate to the tutorial](https://github.com/sonuchavakula/Digital-Concept-Tutorial/blob/master/Tutorial.md)
+
 > HTML5 & CSS Tutorial (Building basic web pages for beginners)
 ___
 By: Sonu Chavakula
