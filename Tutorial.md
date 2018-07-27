@@ -1,10 +1,6 @@
 # HTML5 & CSS Tutorial
 
-> Most Important tags to remember when it comes to HTML5: 
+> This is my favorite resourse when I have any questions, they do a great job: 
 __________________________________________________________________________________________________________________________________________
-> <!DOCTYPE html>       
-> <head>
-> <meta charset="UTF-8">
-> <body>
-> </html>
-Quote Break. 
+
+[HTML5 Resource](https://www.w3schools.com/html/html5_intro.asp)
