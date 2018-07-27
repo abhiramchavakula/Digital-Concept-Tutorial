@@ -12,4 +12,4 @@ I want to display some of my own work so you can understand how easy it is to bu
 
 [My portfolio](https://sonuchavakula.github.io/)
 
-Quick Look: ![Portfolio](portfolio.jpg)
+Quick Look: ![Portfolio](port.png)
