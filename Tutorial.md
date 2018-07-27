@@ -38,3 +38,4 @@ Code:
 </html>
 ~~~~
 ___________________________
+Please experiment on your own, this is the best way to learn and how I taught myself. I hope this helps. 
