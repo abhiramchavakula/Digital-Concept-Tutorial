@@ -8,7 +8,7 @@ ___________________________
 
 I want to display some of my own work so you can understand how easy it is to build your own page, these are some simple HTML5 pages and I will post the code below each image for review:
 ___________________________
-My portfolio is a little more complicated than just a simple HTML5 page, it includes some server side code such as Javascript to implement a few functions. Unfortunately, I will not be posting the code for this page for security reasons. 
+My portfolio is a little more complicated than just a simple HTML5 page, it includes some server side code such as Javascript to implement a few functions. Unfortunately, I will not be posting the code for this page due to security reasons. 
 ___________________________
 [My portfolio](https://sonuchavakula.github.io/)
 
