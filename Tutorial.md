@@ -17,4 +17,4 @@ Quick Look: ![Portfolio](port.png)
 
 Here is another page, which is a simple HTML5 page I created for a class project. I will post the code for this page below: 
 
-Quick Look: ![HTML5](html5.png)
+![HTML5](html5.png)
