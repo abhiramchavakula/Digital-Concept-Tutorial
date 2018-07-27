@@ -2,9 +2,9 @@
 
 > Most Important tags to remember when it comes to HTML5: 
 __________________________________________________________________________________________________________________________________________
-<!DOCTYPE html>       
+> <!DOCTYPE html>       
 <head>
 <meta charset="UTF-8">
 <body>
-</html>
+> </html>
   
