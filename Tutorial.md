@@ -10,4 +10,4 @@ ________________________________________________________________________________
 I want to display some of my own work so you can understand how easy it is to build your own page, they are simple HTML5 pages and I will post the code below each image for review:
 
 
-[My portfolio](sonuchavakula.github.io)
+[My portfolio](https://sonuchavakula.github.io/)
