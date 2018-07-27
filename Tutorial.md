@@ -3,8 +3,8 @@
 > Most Important tags to remember when it comes to HTML5: 
  <!DOCTYPE html>     ->      This specifies what version of HTML is being used to the webpage.    
  <html>      ->      The <html> tag tells the browser that this is an HTML document. The <html> tag represents the root of.    
-> <head>      ->      The <head> element is a container for all the head elements. The <head> element can include a title for the document, scripts, styles, meta information, and more.     
-                    The following elements can go inside the <head> element:
+ <head>      ->      The <head> element is a container for all the head elements. The <head> element can include a title for the document, scripts, styles, meta information, and more.     
+                  >  The following elements can go inside the <head> element:
                                                                                   <title> (this element is required in an HTML document)
                                                                                   <style>
                                                                                   <base>
